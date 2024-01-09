@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emrecan Çetinkaya</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [Akmaz Mobilya Website](akmazmobilya.com)
+- 🔭 I’m currently working on [Akmaz Mobilya Website](https://akmazmobilya.com/)
 
 - 🌱 I’m currently learning **Laravel, React**
 
